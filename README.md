@@ -17,3 +17,7 @@ This project is built using a single HTML file with embedded CSS and JavaScript.
 1.  Clone or download this repository to your local machine.
 2.  Locate the file named `index.html`.
 3.  Double-click the **`index.html`** file to open it in your preferred browser.
+
+
+<img width="1847" height="895" alt="Screenshot 2025-10-30 142331" src="https://github.com/user-attachments/assets/b57ed692-3a21-4998-8211-a34167d929f5" />
+
